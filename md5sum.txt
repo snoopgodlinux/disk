@@ -1,7 +1,7 @@
 d41d8cd98f00b204e9800998ecf8427e  ./.disk/base_installable
 396b89c83e9ad69ecd96cb02802cccdf  ./.disk/casper-uuid-generic
 728cb968a88534e0c50a9d99621f13eb  ./.disk/cd_type
-c05cf6476e0735b14f4d3c4bcb581b39  ./.disk/info
+487ddcd078e29496020a148a330bc6bc  ./.disk/info
 dc61220df8698ed469a228296d8b1cda  ./.disk/release_notes_url
 07db45259bb90094aa5761d5a5c32c38  ./boot/grub/fonts/unicode.pf2
 bd9b191d4984e679c5ca74dff6bf04bb  ./boot/grub/grub.cfg
@@ -572,11 +572,11 @@ d88a46c70904fbebea26c373c81862d9  ./boot/grub/x86_64-efi/zfs.mod
 60bcfcf5e399fd62ea569fead8948aaa  ./boot/grub/x86_64-efi/zfsinfo.mod
 b502e1e8df122675bfd8f6136ec90033  ./boot/grub/x86_64-efi/zstd.mod
 f80e736c32820067cd55ce118a431993  ./boot/memtest86+x64.bin
-c410de87c97f139147048dcdb4031e3e  ./casper/filesystem.manifest
+341a43652d01095efae08809763271a1  ./casper/filesystem.manifest
 e13b5daf9e816262355d1d1fb5686126  ./casper/filesystem.manifest-remove
-c3c488dcbf3a33466559318169be14e3  ./casper/filesystem.size
-e2013c4a35b51ec36741eb956e1ef193  ./casper/filesystem.squashfs
-1658d9552c8eaadc8f529f8cdb6455ed  ./casper/initrd.gz
+5e3b041d489e8131a9b29a7e137312eb  ./casper/filesystem.size
+7ec68bc76181266c92f8a0f67fb13da7  ./casper/filesystem.squashfs
+ee73e39e5399b26eb8e71e5769012f8e  ./casper/initrd.gz
 b194f9469b330d2fef04d07eb13ce2b6  ./casper/vmlinuz
 e733dc376f6628da00ff184784dfeb3d  ./dists/noble/main/binary-amd64/Packages.gz
 9d208b519eb61c34be2a5f528c3627f8  ./dists/noble/main/binary-i386/Packages.gz
@@ -721,4 +721,4 @@ e3e4f888dc625398033796ff1d2591fc  ./pool/universe/p/pyqt5/python3-pyqt5.qtwebkit
 7c8eb0b58a2f806e6d796f1c75a38c44  ./pool/universe/u/ubiquity/oem-config-kde_24.04.5_all.deb
 eab3a2284e84c7bcd832492ee981f259  ./pool/universe/u/ubiquity/ubiquity-frontend-kde_24.04.5_all.deb
 f7e41ccf597c98141af4b74fe1123658  ./preseed/snoopgod.seed
-5d19fe36f7b08e13e3819c3b75e502dc  ./README.diskdefines
+c093d4fa4befa1d885a5cbef30aeb32b  ./README.diskdefines
