@@ -1,5 +1,5 @@
 ## Disk
 
-Official `disk` repository of SnoopGod Linux operating system
+Official `disk` repository of [SnoopGod](https://snoopgod.com) Linux operating system.
 
 * * *
