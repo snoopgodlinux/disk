@@ -574,8 +574,8 @@ b502e1e8df122675bfd8f6136ec90033  ./boot/grub/x86_64-efi/zstd.mod
 f80e736c32820067cd55ce118a431993  ./boot/memtest86+x64.bin
 37b8c931bd8b06f4fd60f6191d62b0b7  ./casper/filesystem.manifest
 e13b5daf9e816262355d1d1fb5686126  ./casper/filesystem.manifest-remove
-7146d4ef881ca8e7747a2c9fbaf9302b  ./casper/filesystem.size
-3d3b67699850874e6782e73abcd20e89  ./casper/filesystem.squashfs
+91a6980dc1af8befba4cc563a35ac7de  ./casper/filesystem.size
+c9ed1da22ca484dd55d29c22c60b4bfe  ./casper/filesystem.squashfs
 e7ed3b9e861d860d922a34e2958a153e  ./casper/initrd.gz
 3c0d6a6320d0bd5757155e612edc616b  ./casper/vmlinuz
 e733dc376f6628da00ff184784dfeb3d  ./dists/noble/main/binary-amd64/Packages.gz
@@ -721,4 +721,4 @@ e3e4f888dc625398033796ff1d2591fc  ./pool/universe/p/pyqt5/python3-pyqt5.qtwebkit
 7c8eb0b58a2f806e6d796f1c75a38c44  ./pool/universe/u/ubiquity/oem-config-kde_24.04.5_all.deb
 eab3a2284e84c7bcd832492ee981f259  ./pool/universe/u/ubiquity/ubiquity-frontend-kde_24.04.5_all.deb
 f7e41ccf597c98141af4b74fe1123658  ./preseed/snoopgod.seed
-4cf6961a17fb6063dc2e3e90c66fbaa8  ./README.diskdefines
+ccaba0660552681db9657499c1533d34  ./README.diskdefines
